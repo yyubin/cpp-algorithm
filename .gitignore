@@ -1,0 +1,25 @@
+# 빌드 디렉토리
+build/
+out/
+bin/
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dSYM/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 기타
+*.log
+*.tmp
+
